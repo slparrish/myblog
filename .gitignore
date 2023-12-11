@@ -9,8 +9,8 @@ myvenv/
 venv/
 .venv/
 
-# Database
-db.sqlite3
+# Database (uploading for E. Mitchell)
+# db.sqlite3
 
 # Static folder at project root
 /static/
